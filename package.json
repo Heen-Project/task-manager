@@ -12,7 +12,7 @@
     "testEnvironment": "node"
   },
   "keywords": [],
-  "author": "Wendy",
+  "author": "",
   "license": "ISC",
   "dependencies": {
     "@sendgrid/mail": "^7.1.1",
